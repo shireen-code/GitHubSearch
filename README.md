@@ -8,7 +8,7 @@ Search: When a user enters a username, it should be able to get a full list of p
 
 ## Libraries/Components used
 * create-react-app: Starter kit to create a reactjs app.
-* Antd css (4.1.3): For styling and basic layout.
+* Antd css: For styling and basic layout.
 * react-router-dom (4.3.1): For routing between the search results screen and the detail screen.
 * For api calls I am using the fetch() method, which returns a Promise.
 
@@ -37,7 +37,7 @@ $ npm start
 
 
 ## Gif Demo
-![Demo](screenshots/demo.gif)
+![Demo](https://github.com/shireen-code/GitHubSearch/blob/main/gif.gif)
 
 #### Generating a Production build
 ```
