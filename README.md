@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * First Git clone the repo into your computer
 ```
-git clone https://github.com/jsphkhan/react-gist-demo.git
+git clone https://github.com/shireen-code/GitHubSearch.git
 ```
 * Open your terminal
 ```
